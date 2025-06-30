@@ -83,8 +83,3 @@ PivotTables
 Charts (Bar, Donut, Line)
 
 Slicers
-
-Conditional Formatting
-
-KPI Cards
-
